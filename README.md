@@ -22,7 +22,6 @@ Dino Runner is a classic endless runner game built using Pygame. In this game, y
 1. Ensure you have Python and Pygame installed.
 2. Clone or download this repository.
 
-Use 
 ```
 git clone https://github.com/Abhishrent/Dino-Runner-Remastered.git
 ```
