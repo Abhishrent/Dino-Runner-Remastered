@@ -31,14 +31,18 @@ pip install pygame-ce
 git clone https://github.com/Abhishrent/Dino-Runner-Remastered.git
 ```
 
-
-3. Place your sprite images in the appropriate directory structure:
+3. Place your sprite images in the appropriate directory structure (already done although):
    - `sprites/player/doux.png`
    - `sprites/world/sky.png`
    - `sprites/world/bg1.png`, `bg2.png`, `bg3.png`, `bg4.png`, `bg5.png`
    - `sprites/world/cactus.png`, `cactus_small.png`
    - `sprites/world/floor.png`
+
 4. Run the `main.py` file to start the game.
+
+```
+python main.py
+```
 
 ### Dependencies:
 - Python 3.x
