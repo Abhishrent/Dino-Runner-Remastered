@@ -1,7 +1,11 @@
 # Dino Runner
 
 ### Gameplay
-[https://github.com/user-attachments/assets/d4055236-9b24-4a0b-a808-58afd11eeff1](https://github.com/user-attachments/assets/f606cf0a-4d0c-4a7b-96fd-1ec130743a6f)
+<div align="center">
+  <a href="https://github.com/user-attachments/assets/d4055236-9b24-4a0b-a808-58afd11eeff1">
+    <img src="https://github.com/user-attachments/assets/f606cf0a-4d0c-4a7b-96fd-1ec130743a6f" alt="Dino Runner Gameplay">
+  </a>
+</div>
 
 #### Description:
 Dino Runner is a classic endless runner game built using Pygame. In this game, you control a dinosaur navigating through an endless desert landscape, avoiding obstacles such as cacti while trying to achieve the highest possible score.
