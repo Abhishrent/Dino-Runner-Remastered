@@ -1,6 +1,5 @@
 # Dino Runner
 
-#### Video Demo: [URL HERE]
 
 #### Description:
 Dino Runner is a classic endless runner game built using Pygame. In this game, you control a dinosaur navigating through an endless desert landscape, avoiding obstacles such as cacti while trying to achieve the highest possible score.
